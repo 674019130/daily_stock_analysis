@@ -521,6 +521,7 @@ class MarketAnalyzer:
 ---
 
 请直接输出复盘报告内容，不要输出其他说明文字。
+不要带有任何有关技术面的分析。
 """
         return prompt
     
